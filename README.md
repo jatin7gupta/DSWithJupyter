@@ -1,4 +1,4 @@
-ds
+Getting started with Data Science
 ==============================
 
 A short description of the project.
