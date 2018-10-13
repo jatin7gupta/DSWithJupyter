@@ -1,7 +1,7 @@
 Getting started with Data Science
 ==============================
 
-A short description of the project.
+This project will help you up and running with a data science repository. The code will be in the notebook directory.
 
 Project Organization
 ------------
